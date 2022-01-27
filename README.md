@@ -1,6 +1,6 @@
 # Documents
 
-These are a group of documents that are routinely referenced. 
+Frequently-referenced documents that are easily accessible in one place.
 
 ## iOS Development
 
