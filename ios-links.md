@@ -13,7 +13,7 @@
 
 ## Architecture
 1. ![Modular iOS](https://anuragajwani.medium.com/modular-ios-guide-60810f5a7f97)
-2. ![Modulear architecture in iOS](https://benoitpasquier.com/how-build-modular-architecture-ios/)
+2. ![Modular architecture in iOS](https://benoitpasquier.com/how-build-modular-architecture-ios/)
 
 ## Compilation
 1. ![Modules - Clang](https://clang.llvm.org/docs/Modules.html)
